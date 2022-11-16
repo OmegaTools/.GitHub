@@ -21,7 +21,7 @@
 />][GRAPH]
 
 *RGB Color*                        *ICO Image*                        *HSL Color*                        *Graph File*<br>
- *Conversion*                        *Conversion*                         *Conversion*                         *Parser / Stringifier*
+ *Conversion*                        *Conversion*                         *Conversion*                    *Parser / Stringifier*
 
 </div>
 
