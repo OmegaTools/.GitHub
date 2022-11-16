@@ -20,7 +20,7 @@
     src = 'https://raw.githubusercontent.com/OmegaTools/GRAPH/main/Assets/Logo.png'
 />][GRAPH]
 
-*RGB Color*                          *ICO Image*                          *HSL Color*                                  *Graph File*<br>
+*RGB Color*                          *ICO Image*                          *HSL Color*                                    *Graph File*<br>
         *Conversion*                          *Conversion*                           *Conversion*                             *Parser / Stringifier*
 
 </div>
