@@ -14,10 +14,14 @@
 [<img
     width = 120
     src = 'https://raw.githubusercontent.com/OmegaTools/HSL/main/Assets/Logo.png'
-/>][HSL]
+/>][HSL]                   
+[<img
+    width = 120
+    src = 'https://raw.githubusercontent.com/OmegaTools/GRAPH/main/Assets/Logo.png'
+/>][GRAPH]
 
-*RGB Color*                        *ICO Image*                        *HSL Color*<br>
- *Conversion*                        *Conversion*                         *Conversion*
+*RGB Color*                        *ICO Image*                        *HSL Color*                        *Graph File*<br>
+ *Conversion*                        *Conversion*                         *Conversion*                         *Parser / Stringifier*
 
 </div>
 
@@ -26,6 +30,7 @@
 
 <!----------------------------------------------------------------------------->
 
+[GRAPH]: https://github.com/OmegaTools/GRAPH
 [ICO]: https://github.com/OmegaTools/ICO
 [RGB]: https://github.com/OmegaTools/RGB
 [HSL]: https://github.com/OmegaTools/HSL
