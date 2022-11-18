@@ -5,19 +5,19 @@
 
 [<img
     width = 120
-    src = '../Resources/Graph.png'
+    src = 'https://raw.githubusercontent.com/OmegaTools/.GitHub/main/Resources/Graph.png'
 />][RGB]    
 [<img
     width = 120
-    src = '../Resources/ICO.png'
+    src = 'https://raw.githubusercontent.com/OmegaTools/.GitHub/main/Resources/ICO.png'
 />][ICO]    
 [<img
     width = 120
-    src = '../Resources/HSL.png'
+    src = 'https://raw.githubusercontent.com/OmegaTools/.GitHub/main/Resources/HSL.png'
 />][HSL]    
 [<img
     width = 120
-    src = '../Resources/RGB.png'
+    src = 'https://raw.githubusercontent.com/OmegaTools/.GitHub/main/Resources/RGB.png'
 />][GRAPH]
 
 </div>
