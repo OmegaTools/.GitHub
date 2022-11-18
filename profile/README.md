@@ -5,23 +5,20 @@
 
 [<img
     width = 120
-    src = 'https://raw.githubusercontent.com/OmegaTools/RGB/main/Assets/Logo.png'
-/>][RGB]                   
+    src = '../Resources/Graph.png'
+/>][RGB]    
 [<img
     width = 120
-    src = 'https://raw.githubusercontent.com/OmegaTools/ICO/main/Assets/Logo.png'
-/>][ICO]                   
+    src = '../Resources/ICO.png'
+/>][ICO]    
 [<img
     width = 120
-    src = 'https://raw.githubusercontent.com/OmegaTools/HSL/main/Assets/Logo.png'
-/>][HSL]                   
+    src = '../Resources/HSL.png'
+/>][HSL]    
 [<img
     width = 120
-    src = 'https://raw.githubusercontent.com/OmegaTools/GRAPH/main/Assets/Logo.png'
+    src = '../Resources/RGB.png'
 />][GRAPH]
-
-*RGB Color*                        *ICO Image*                        *HSL Color*                        *Graph File*<br>
-        *Conversion*                        *Conversion*                         *Conversion*                   *Parser / Stringifier*
 
 </div>
 
