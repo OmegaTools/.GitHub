@@ -6,7 +6,7 @@
 [<img
     width = 120
     src = 'https://raw.githubusercontent.com/OmegaTools/.GitHub/main/Resources/Graph.png'
-/>][RGB]    
+/>][GRAPH]    
 [<img
     width = 120
     src = 'https://raw.githubusercontent.com/OmegaTools/.GitHub/main/Resources/ICO.png'
@@ -18,7 +18,7 @@
 [<img
     width = 120
     src = 'https://raw.githubusercontent.com/OmegaTools/.GitHub/main/Resources/RGB.png'
-/>][GRAPH]
+/>][RGB]
 
 </div>
 
